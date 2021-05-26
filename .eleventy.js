@@ -63,7 +63,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPlugin(localImages, {
     distPath: "_site",
-    assetPath: "/img/remote",
+    assetPath: "/log/img/remote",
     selector:
       "img,amp-img,amp-video,meta[property='og:image'],meta[name='twitter:image'],amp-story",
     verbose: false,
@@ -220,7 +220,7 @@ module.exports = function (eleventyConfig) {
     // Best paired with the `url` filter: https://www.11ty.io/docs/filters/url/
 
     // You can also pass this in on the command line using `--pathprefix`
-    // pathPrefix: "/",
+    pathPrefix: "/log/",
 
     markdownTemplateEngine: "liquid",
     htmlTemplateEngine: "njk",
