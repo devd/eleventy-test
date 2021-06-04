@@ -88,5 +88,5 @@ Now, this doesn’t mean smarter static analysis tools are dead. The ideas behin
 If Semmle becomes understandable, faster, open; before Semgrep becomes smarter, Semmle could win! But, either way, whatever happens, security teams win! 🙂
 
 
-*Thanks to Clint Gibler, Matthew Finifter, Max Burkhardt, Sean Byrne for their feedback. All mistakes are mine and I would love your feedback.*
+*Thanks to [Clint Gibler](https://tldrsec.com/), Matthew Finifter, Max Burkhardt, Sean Byrne for their feedback. All mistakes are mine and I would love your feedback.*
 
