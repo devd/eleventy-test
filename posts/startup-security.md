@@ -113,7 +113,7 @@ In addition to these generic checks for all web applications, it's also worth ta
 
 ## Penetration Testing
 
-As you get a firmer idea of what you are building and want to do a large launch or enterprise sales, [a white-box pentest](https://owasp.org/Top10/https://en.wikipedia.org/wiki/Penetration_test) can also provide a detailed evaluation of your product’s security posture. Your enterprise customers will anyways demand a pentest and using it as an opportunity to further harden your product is a great idea. “White-box” just means that the security testing firm has full read access to your source code. 
+As you get a firmer idea of what you are building and want to do a large launch or enterprise sales, [a white-box pentest](https://en.wikipedia.org/wiki/Penetration_test) can also provide a detailed evaluation of your product’s security posture. Your enterprise customers will anyways demand a pentest and using it as an opportunity to further harden your product is a great idea. “White-box” just means that the security testing firm has full read access to your source code. 
 
 With pentests, the usual rule applies: pick two from Good, Fast, Cheap. I recommend always going with good and picking one between fast and cheap. As a startup, opportunity cost is high. A bad pentest can waste your time on security “vulnerabilities” that aren’t real risks and not uncover actual security issues. It’s hard to know which firms provide high quality pentests from their websites: ask the firms for references or talk to other founders for recommendations. I am a fan of [Doyensec](https://doyensec.com/). Regardless of who you pick, aim to invest in a long-term relationship where you can ask them for help with small tests to large-scale full product audits. 
 
